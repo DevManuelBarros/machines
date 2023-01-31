@@ -1,0 +1,1 @@
+sudo nmap -Pn -n -sV -O 10.129.41.229 >> nmap1.t
