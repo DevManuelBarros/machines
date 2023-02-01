@@ -7,6 +7,6 @@ echo Procedemos a crear los directorios
 mkdir $machine
 cd $machine
 touch history
-touch resume
+touch resume.m
 
 
